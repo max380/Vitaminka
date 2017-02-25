@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+
 <widget xmlns     = "http://www.w3.org/ns/widgets"
+
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        version   = "0.0.5">
+
+        id        = "com.VitamiN"
+
+        version   = "0.01">
+
+
+
+    <name>VitamiN</name>
+
 
 
     <description>
+
+        VitamiN App
+
     </description>
 
+
+
     <author href="http://crage.ru" email="admin@crage.ru">
+
         CrageDev Team
+
     </author>
 
     <!--
